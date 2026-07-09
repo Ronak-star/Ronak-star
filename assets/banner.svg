@@ -1,0 +1,22 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#A371F7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)" rx="14"/>
+  <circle cx="1080" cy="45" r="3" fill="#58A6FF" opacity="0.8"/>
+  <circle cx="1120" cy="90" r="2" fill="#A371F7" opacity="0.7"/>
+  <circle cx="1050" cy="140" r="2.5" fill="#58A6FF" opacity="0.6"/>
+  <circle cx="80" cy="60" r="2" fill="#58A6FF" opacity="0.5"/>
+  <circle cx="130" cy="170" r="3" fill="#A371F7" opacity="0.6"/>
+  <text x="600" y="100" font-family="Fira Code, monospace" font-size="46" font-weight="700" fill="url(#txt)" text-anchor="middle">Ronak Tailor</text>
+  <text x="600" y="140" font-family="Fira Code, monospace" font-size="20" fill="#8b949e" text-anchor="middle">Full-Stack Web Developer · React · Node.js · MongoDB</text>
+  <text x="600" y="175" font-family="Fira Code, monospace" font-size="15" fill="#58A6FF" text-anchor="middle">B.Tech CSE · Arya College of Engineering · Rajasthan, India</text>
+</svg>
