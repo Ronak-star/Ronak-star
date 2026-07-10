@@ -1,160 +1,251 @@
 <div align="center">
 
-# 📄 ContractLens
+# 👋 Hi, I'm Ronak Tailor
 
-**Upload a contract PDF. Get back the clauses worth a second look —**
-**with a plain-English risk level and a page reference.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;Open+Source+Contributor;Learning+MERN+Stack;Problem+Solver+on+LeetCode;Always+Learning+New+Things🚀" />
 
-[![CI](https://github.com/you/contractlens/actions/workflows/ci.yml/badge.svg)](https://github.com/you/contractlens/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Next.js](https://img.shields.io/badge/Next.js-App%20Router-black?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?logo=typescript)
-![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma)
-![Groq](https://img.shields.io/badge/Groq-Llama%203.3%2070B-orange)
-
-**[🚀 Live Demo](#)** · **[📖 Architecture Docs](docs/architecture.md)** · **[🐛 Report a Bug](../../issues)**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub&fontSize=40&fontAlignY=35&color=0:00C9FF,100:6A11CB"/>
 
 </div>
 
 ---
 
-## 📸 Screenshots
+# 💫 About Me
+
+🚀 Passionate Full Stack Developer from India.
+
+💻 Love Building Responsive Websites.
+
+🌱 Currently Learning
+
+- React
+- Node.js
+- Express
+- MongoDB
+
+🎯 Goal
+
+Become a Software Engineer in Top Product Based Company.
+
+⚡ Fun Fact
+
+> Debugging is like being the detective in a crime movie where you're also the murderer 😂
+
+---
+
+# 🌐 Portfolio
+
+| Website | Link |
+|----------|------|
+| GitHub | https://github.com/Ronak-star |
+| Portfolio | https://ronak-tailor-violqwb.gamma.site/ |
+| LinkedIn | https://www.linkedin.com/in/ronak-tailor-10037235a/?skipRedirect=true |
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase"/>
+
+</p>
+
+---
+
+# 🤖 AI / ML
+
+✔ Prompt Engineering
+
+✔ OpenAI API
+
+✔ Gemini API
+
+✔ AI Chatbots
+
+✔ LangChain Basics
+
+✔ Python Automation
+
+---
+
+# 📈 Coding Profiles
+
+<p>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-green?style=for-the-badge&logo=geeksforgeeks"/>
+
+</a>
+
+<a href="https://www.codechef.com/">
+
+<img src="https://img.shields.io/badge/CodeChef-Competitive-brown?style=for-the-badge&logo=codechef"/>
+
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronak-star&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-star&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronak-star&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronak-star&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ronak-star&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronak-star&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronak-star&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronak-star&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Tech |
+|----------|------|
+| Weather App | HTML CSS JS |
+| Portfolio Website | HTML CSS |
+| Calculator | JavaScript |
+| Todo App | React |
+| Chat Application | MERN |
+
+---
+
+# 📜 Certifications
+
+🏅 Java Programming
+
+🏅 Web Development
+
+🏅 Python Programming
+
+🏅 Git & GitHub
+
+🏅 React
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Ronak-star">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-| Landing Page | Dashboard |
-|:---:|:---:|
-| ![Landing page screenshot](docs/screenshots/landing.png) | ![Dashboard screenshot](docs/screenshots/dashboard.png) |
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:6A11CB"/>
 
-| Clause Analysis | Upload Flow |
-|:---:|:---:|
-| ![Clause analysis screenshot](docs/screenshots/analysis.png) | ![Upload flow screenshot](docs/screenshots/upload.png) |
+### ⭐ Thanks For Visiting My Profile ⭐
 
 </div>
-
-> 💡 Add your own screenshots to `docs/screenshots/` and they'll render automatically above — the filenames just need to match.
-
----
-
-## ✨ Features
-
-- 🔐 **Email/password auth** — hashed passwords, rate-limited login via NextAuth
-- 📤 **Upload any contract PDF** and get clause-level analysis in under a minute
-- 🚦 **Every clause scored `high` / `medium` / `low` risk** with a plain-English reason and page hint
-- 🔒 **Row-level authorization** — you only ever see your own contracts
-- 🗑️ **Delete with confirmation**, with live analyzing/complete/error states
-- 🔎 **SEO-ready landing page** with OpenGraph tags
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Tech |
-|---|---|
-| Framework | Next.js (App Router) |
-| Language | TypeScript (strict mode) |
-| Database / ORM | Prisma + SQLite (dev) / Postgres (prod) |
-| Styling | Tailwind CSS |
-| Auth | NextAuth (Credentials + JWT sessions) |
-| AI | Groq API (Llama 3.3 70B) |
-| Validation | Zod |
-
----
-
-## ⚡ Quick Start
-
-```bash
-git clone https://github.com/you/contractlens && cd contractlens
-cp .env.example .env        # then fill in GROQ_API_KEY and NEXTAUTH_SECRET
-npm install
-npm run db:migrate          # creates prisma/dev.db and applies the schema
-npm run db:seed             # creates the demo account below
-npm run dev                 # http://localhost:3000
-```
-
-Generate a `NEXTAUTH_SECRET` with:
-
-```bash
-openssl rand -base64 32
-```
-
-Get a **free** `GROQ_API_KEY` at [console.groq.com/keys](https://console.groq.com/keys) — no credit card required.
-
-### 🔑 Demo Credentials
-
-```
-demo@demo.com / demo1234
-```
-
----
-
-## 🔧 Environment Variables
-
-| Variable | Description |
-|---|---|
-| `DATABASE_URL` | `file:./dev.db` locally; a Postgres connection string in production |
-| `NEXTAUTH_SECRET` | Random string used to sign session JWTs |
-| `NEXTAUTH_URL` | Full URL of the app (`http://localhost:3000` locally) |
-| `GROQ_API_KEY` | Your free Groq API key, used for clause extraction |
-
----
-
-## 🏗️ Architecture
-
-Short version:
-
-```
-User → Contract → Clause
-```
-
-- NextAuth credentials + JWT sessions
-- PDF text extraction with `pdf-parse`
-- Clause extraction via the Anthropic API, validated with Zod before it ever touches the database
-
-📄 Full write-up, trade-offs, and diagrams: **[`docs/architecture.md`](docs/architecture.md)**
-
----
-
-## ✅ Testing
-
-This trial build doesn't ship automated tests yet — see [Roadmap](#-roadmap).
-
-To verify manually:
-
-```bash
-npm run build   # confirms the production build and TypeScript strict-mode pass
-```
-
-**Manual checklist:**
-1. Sign up
-2. Upload a real contract PDF
-3. Confirm clauses appear with sensible risk levels
-4. Delete the contract
-5. Confirm it's gone
-
----
-
-## 🗺️ Roadmap
-
-- [x] Auth, upload, AI clause extraction, dashboard
-- [ ] Playwright e2e test of the upload → analyze → view flow
-- [ ] Background job queue for analysis instead of a blocking request (better for large files)
-- [ ] CSV export of a contract's clause list
-- [ ] Team accounts / shared contract libraries
-
----
-
-## ☁️ Deployment (Vercel)
-
-1. Push this repo to GitHub, then **Import Project** at [vercel.com](https://vercel.com).
-2. Provision a free Postgres instance (Neon or Supabase) and copy its connection string.
-3. In `prisma/schema.prisma`, change `provider = "sqlite"` to `provider = "postgresql"`.
-4. Add all four environment variables from the table above under **Settings → Environment Variables** (use the Postgres URL for `DATABASE_URL`, and your production domain for `NEXTAUTH_URL`).
-5. Run `npx prisma migrate deploy` against the production database once (Vercel's build step or a one-off local run with the prod `DATABASE_URL`).
-6. Every push to `main` auto-deploys; every PR gets a preview URL.
-
----
-
-## 📄 License
-
-MIT — see [LICENSE](LICENSE).
