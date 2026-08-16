@@ -84,6 +84,16 @@ Become a Software Engineer in Top Product Based Company.
 </p>
 
 ---
+## AI and Agentic AI Toolkit
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-Tool%20Calling-38BDF8?style=for-the-badge" alt="AI agents tool calling" />
+  <img src="https://img.shields.io/badge/RAG-Vector%20Search-22C55E?style=for-the-badge" alt="RAG vector search" />
+  <img src="https://img.shields.io/badge/LLMs-Prompt%20Engineering-A855F7?style=for-the-badge" alt="LLM prompt engineering" />
+  <img src="https://img.shields.io/badge/ML%20Pipelines-Experimentation-F97316?style=for-the-badge" alt="ML pipelines experimentation" />
+</div>
+
+<br />
 
 # 🤖 AI / ML
 
