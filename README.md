@@ -43,29 +43,36 @@ Become a Software Engineer in Top Product Based Company.
 
 ---
 
-# 🛠 Tech Stack
-## Tech Stack
+## What I Work On
+
+| Focus Area | What I Build |
+| --- | --- |
+| **Agentic AI** | Tool-using agents, multi-step workflows, autonomous task helpers, and AI automation systems |
+| **RAG Applications** | Document Q&A, semantic search, embeddings, vector databases, and retrieval pipelines |
+| **Machine Learning** | ML experiments, model training practice, evaluation, notebooks, and data workflows |
+| **Deep Learning and NLP** | Neural network practice, text processing, transformers, and LLM-powered features |
+| **Python Development** | Scripts, automation tools, backend logic, APIs, and experiments |
+| **Web Development** | Flask and Django projects with clean backend structure |
+| **Problem Solving** | DSA practice, programming challenges, and algorithmic thinking |
+
+## AI and Agentic AI Toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,selenium" alt="AI data and automation technologies" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=python,django,go,flask,c,cpp" alt="Core development technologies" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,mysql,postgres,mongodb" alt="Developer tools and databases" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Tool%20Calling-38BDF8?style=for-the-badge" alt="AI agents tool calling" />
+  <img src="https://img.shields.io/badge/RAG-Vector%20Search-22C55E?style=for-the-badge" alt="RAG vector search" />
+  <img src="https://img.shields.io/badge/LLMs-Prompt%20Engineering-A855F7?style=for-the-badge" alt="LLM prompt engineering" />
+  <img src="https://img.shields.io/badge/ML%20Pipelines-Experimentation-F97316?style=for-the-badge" alt="ML pipelines experimentation" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-0F172A?style=flat-square&logo=databricks&logoColor=white" alt="Vector databases" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-</div>
+| AI Area | Skills I Am Building |
+| --- | --- |
+| **LLM Apps** | Chatbots, AI assistants, structured outputs, tool calling, and prompt workflows |
+| **RAG Systems** | Chunking, embeddings, retrieval, reranking concepts, and knowledge-grounded answers |
+| **Agent Workflows** | Planning, memory concepts, tool orchestration, and task automation |
+| **ML and DL** | Supervised learning, neural networks, NLP basics, model evaluation, and notebooks |
+
 
 
 ## Languages
