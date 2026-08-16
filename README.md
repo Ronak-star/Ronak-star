@@ -241,7 +241,8 @@ Become a Software Engineer in Top Product Based Company.
 </p>
 
 ---
-![Snake animation](https://github.com/mohitkumhar/mohitkumhar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Ronak-star/Ronak-star/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/Ronak-star/Ronak-star/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <div align="center">
 
