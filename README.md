@@ -44,6 +44,29 @@ Become a Software Engineer in Top Product Based Company.
 ---
 
 # 🛠 Tech Stack
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,selenium" alt="AI data and automation technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,django,go,flask,c,cpp" alt="Core development technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,mysql,postgres,mongodb" alt="Developer tools and databases" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-0F172A?style=flat-square&logo=databricks&logoColor=white" alt="Vector databases" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</div>
+
 
 ## Languages
 
