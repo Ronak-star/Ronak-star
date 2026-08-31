@@ -12,27 +12,8 @@
 
 # 💫 About Me
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer illustration" />
-const ronak = {
-    pronouns: "He" | "Him",
-    location: "🇮🇳 Jaipur, Rajasthan, India",
-    role: "Full Stack Developer | Exploring Agentic AI",
-    education: "B.Tech CSE, Arya College of Engineering",
+<img width="639" height="429" alt="image" src="https://github.com/user-attachments/assets/c691fbac-db44-45bc-b18b-4674066015ea" />
 
-    expertise: {
-        backend: ["Python", "Node.js", "Express.js", "FastAPI"],
-        frontend: ["React", "JavaScript", "HTML", "CSS", "Tailwind"],
-        databases: ["MongoDB", "MySQL", "MS SQL Server"],
-        ai: ["OpenAI API", "Gemini", "LangGraph", "RAG"],
-        tools: ["Git", "GitHub", "Vercel", "Docker-ready"]
-    },
-
-    projects: {
-        shifraAI: "AI-powered voice assistant (Node.js + Express)",
-        scheduler: "AI social media automation SaaS (MERN)",
-        legalQA: "RAG-based legal/policy Q&A agent",
-        studyBuddy: "LangGraph + FastAPI study assistant"
-    }
-};
 ---
 
 # 🌐 Portfolio
