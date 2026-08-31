@@ -11,7 +11,7 @@
 ---
 
 # 💫 About Me
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer illustration" />
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <img width="790" height="501" alt="image" src="https://github.com/user-attachments/assets/7a0888ef-d18a-4d1a-91f1-1cf97090f239" />
 
 
