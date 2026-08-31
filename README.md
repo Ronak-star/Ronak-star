@@ -12,7 +12,8 @@
 
 # 💫 About Me
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer illustration" />
-<img width="639" height="429" alt="image" src="https://github.com/user-attachments/assets/c691fbac-db44-45bc-b18b-4674066015ea" />
+<img width="1536" height="1024" alt="2b1e8cd6-9199-454a-9d12-00d1af93a7a3" src="https://github.com/user-attachments/assets/d9125631-f8b6-4cf8-8662-b624a0695c8f" />
+
 
 ---
 
