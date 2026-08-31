@@ -12,7 +12,8 @@
 
 # 💫 About Me
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<img width="1310" height="837" alt="image" src="https://github.com/user-attachments/assets/ff1fdf20-bf0d-4d87-bf37-28a5f9d38c43" />
+<img width="639" height="429" alt="image" src="https://github.com/user-attachments/assets/0b6e8cc2-37ae-4412-816a-38c09b9ab371" />
+
 
 
 
