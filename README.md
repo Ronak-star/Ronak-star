@@ -12,25 +12,27 @@
 
 # 💫 About Me
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer illustration" />
-🚀 Passionate Full Stack Developer from India.
+const ronak = {
+    pronouns: "He" | "Him",
+    location: "🇮🇳 Jaipur, Rajasthan, India",
+    role: "Full Stack Developer | Exploring Agentic AI",
+    education: "B.Tech CSE, Arya College of Engineering",
 
-💻 Love Building Responsive Websites.
+    expertise: {
+        backend: ["Python", "Node.js", "Express.js", "FastAPI"],
+        frontend: ["React", "JavaScript", "HTML", "CSS", "Tailwind"],
+        databases: ["MongoDB", "MySQL", "MS SQL Server"],
+        ai: ["OpenAI API", "Gemini", "LangGraph", "RAG"],
+        tools: ["Git", "GitHub", "Vercel", "Docker-ready"]
+    },
 
-🌱 Currently Learning
-
-- React
-- Node.js
-- Express
-- MongoDB
-
-🎯 Goal
-
-Become a Software Engineer in Top Product Based Company.
-
-⚡ Fun Fact
-
-> Debugging is like being the detective in a crime movie where you're also the murderer 😂
-
+    projects: {
+        shifraAI: "AI-powered voice assistant (Node.js + Express)",
+        scheduler: "AI social media automation SaaS (MERN)",
+        legalQA: "RAG-based legal/policy Q&A agent",
+        studyBuddy: "LangGraph + FastAPI study assistant"
+    }
+};
 ---
 
 # 🌐 Portfolio
