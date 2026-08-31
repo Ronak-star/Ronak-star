@@ -4,7 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;Open+Source+Contributor;Learning+MERN+Stack;Problem+Solver+on+LeetCode;Always+Learning+New+Things🚀" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub&fontSize=40&fontAlignY=35&color=0:00C9FF,100:6A11CB"/>
+
+# Welcome to My Digital Space
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600">
 
 </div>
 
